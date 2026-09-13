@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+artifacts/
+dist/*.exe
+dist/*.zip
+*.user
+
+# Local test fixtures and results (not published)
+/tests/
+/test.pptx
+/dist/
